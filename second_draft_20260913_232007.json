@@ -1,0 +1,81 @@
+{
+  "timestamp": "20260913_232007",
+  "cast_names": [
+    "Jack",
+    "Young",
+    "Scribe",
+    "Scholar1",
+    "King Michael",
+    "Mother",
+    "Blacksmith",
+    "Bones",
+    "Vex",
+    "Halo",
+    "Ash",
+    "Queen June",
+    "Snake",
+    "Narrator"
+  ],
+  "hits_source": "fallback:chunked_source",
+  "drafts": [
+    {
+      "title": "The Signal Flare Crisis",
+      "reasoning": "The 'I' in the source is an unnamed narrator, as it is a narrative description of events. This chunk involves Jack, Laura, and the setting of the desert gas station. The dramatic conflict is the aftermath of the Uber-Drones crash and the philosophical tension between Jack and King Michael's divine-right theology. The setting fits well within the post-apocalyptic, revolutionary context of the scene.",
+      "scene": "The desert gas station lies in ruins, its walls cracked and the roof collapsed under the weight of the dust storm. The wind whips through the empty space, carrying the scent of metal and smoke. Jack, with his party cowboy hat perched jauntily on his head, stands amidst the debris, his eyes scanning the horizon. Laura, dressed in combat gear, huddles beside him, her expression a mix of concern and determination. The bluegrass overture plays softly, masking the chaos of the scene.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "This is it, Laura. The signal flares. We need to get the people ready.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "I know, Jack. I’ve been working on the broadcast plans. But how do we convince them to rise against the king?",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "With the truth, Laura. And the right to choose. We can’t let King Michael’s lies cloud their minds.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "Goddamn Crisco-Cocklockers at that fucking library won't let me download it. I know just the way, Jack, and it starts with a signal boost. Ha ha ha ha ha ha! You're such a rebel, June. Ha ha ha ha ha! Yeah, man. Zigger, Zigger is speaking truth to power. Uh, and that needs to happen. Do not lecture me! My king, I am a woman, not a pawn. Your Majesty, I bring you a proposition.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "That's the spirit, Queen June. We can’t afford to let anyone doubt the revolution's cause. We need everyone on board.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "My king, I am a woman, not a pawn. Your Majesty, I bring you a proposition.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Jack",
+        "Laura",
+        "Narrator"
+      ]
+    }
+  ]
+}
